@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NSD_Sample</string>
+    <string name="add_service">Add Service</string>
+    <string name="scan_service">Scan service</string>
+</resources>
